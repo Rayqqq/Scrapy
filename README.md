@@ -1,0 +1,2 @@
+# Scrapy
+intern project
